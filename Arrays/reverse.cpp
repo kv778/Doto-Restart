@@ -49,7 +49,7 @@ void reverse_vector()
 
 int main()
 {
-    //reverse_array();
+    reverse_array();
     reverse_vector();
 
     return 0;
