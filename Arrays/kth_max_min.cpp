@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 
+//TODO: Figure out cases with input 0 or repeated numbers
+
 void array_max()
 {
     int n,k,temp=0;
