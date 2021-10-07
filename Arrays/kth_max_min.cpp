@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-//TODO: Figure out cases with input 0 or repeated numbers
+//TODO: Figure out cases with input 0 or repeated numbers pls
 
 void array_max()
 {
