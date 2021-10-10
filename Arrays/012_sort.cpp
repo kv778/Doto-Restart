@@ -27,13 +27,13 @@ void sort_array()
     {
         if(arr[i] == 1)
         {
-            sorted_arr[ctr] == 1;
+            sorted_arr[ctr] = 1;
             ++ctr;
         }
     }
 
     for(int i=ctr;i<n;i++) {
-        sorted_arr[ctr] == 2;
+        sorted_arr[ctr] = 2;
         ++ctr;
     }
     
